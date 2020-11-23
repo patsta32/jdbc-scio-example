@@ -1,4 +1,4 @@
-# JDBC Scio Exampl
+# JDBC Scio Example
 
 
 
